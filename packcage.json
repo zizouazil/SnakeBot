@@ -1,6 +1,6 @@
 {
-  "name": "SnakeBot",
-  "description": "SnakeBot",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
